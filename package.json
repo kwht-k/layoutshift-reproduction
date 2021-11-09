@@ -1,0 +1,15 @@
+{
+  "name": "layoutshift-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "setup": "npm ci",
+    "start": "npx http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
